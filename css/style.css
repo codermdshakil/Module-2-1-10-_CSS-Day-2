@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+}
+.header-title{
+    color: blueviolet;
+    text-align: center;
+    padding:10px;
+    font-size:70px;
+}
+.image{
+    width:300px;
+    box-shadow: 1px 2px 15px gray;
+    border-radius: 50%;
+    display:block;
+    margin: auto;
+}
+.img_box{
+    margin: 15px 0px;
+}
+.sajek{
+    background: rgb(32, 147, 185);
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.sajek h3{
+    color: white;
+    background: rgb(255, 81, 0);
+    padding:10px;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 1px 2px 15px gray;
+}
+.coz{
+    background: rgb(32, 147, 185);
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.coz h3{
+    color: white;
+    background: rgb(13, 86, 170);
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 1px 2px 15px gray;
+}
+.sondor{
+    background: rgb(32, 147, 185);
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.sondor h3{
+    color: white;
+    background: rgb(143, 16, 111);
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom:10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 1px 2px 15px gray;
+}
+.author{
+    margin: 15px 10px;
+    font-size: 16px;
+}
+.author span{
+    color: yellow;
+}
